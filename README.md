@@ -66,7 +66,7 @@ Most open-source RAG tutorials are toy scripts: they leak private documents to c
 | **Production Resilience** | Silent crashes on network drops or bad files | **Exponential Backoff, Jitter, & Transaction Rollback Safeguards** |
 | **Deployment Simplicity** | Hours of manual dependency debugging | **One-Click Native Launchers (`run.bat` / `run.sh`) & Docker Compose** |
 
-## ⭐ Highlights
+## ⭐ Highlights 
 
 - **Dual AI Engine (Local & Cloud)**: Instant switching between 100% offline local inference (LM Studio / Ollama with Qwen 2.5, Llama 3, Mistral) and cloud scale (Google Gemini 1.5 Pro / Flash).
 - **Distraction-Free Monochrome Workstation**: High-density, black-and-white industrial developer interface inspired by advanced IDE terminals, with full keyboard navigation (`_ c` for Chat, `_ d` for Documents, `_ g` for Dashboard, `_ s` for Settings).
