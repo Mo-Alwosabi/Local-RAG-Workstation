@@ -402,7 +402,7 @@ If **Local RAG Workstation** saved you engineering time, enhanced your data priv
 **Developed with ❤️ by Mohammed Alwosabi (محمد الوصابي)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/Mo-Alwosabi)
-[![Email](https://img.shields.io/badge/Email-moammen2004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moammen2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-moammen2004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ai.mohammed.alwosabi@gmail.com)
 
 </div>
 

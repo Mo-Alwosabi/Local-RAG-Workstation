@@ -11,7 +11,7 @@ import {
 } from "react";
 
 const ACTIVE_COLLECTION_KEY = "rag-active-collection";
-const THEME_KEY = "al-haj-theme";
+const THEME_KEY = "alwosabi-theme";
 
 export type ThemeMode = "light" | "dark";
 
