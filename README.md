@@ -126,9 +126,7 @@ Live telemetry monitoring the operational health of:
 - **PostgreSQL**: Transaction health, document counts, and message history.
 
 ---
-
 ## 🏗 Architecture
-
 ```
                                   USER BROWSER
                                        │
